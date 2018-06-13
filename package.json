@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "mixit3d",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Interesting way to create some music!",
   "engines": {
     "node": ">= 7.0.0"
   },
@@ -32,7 +32,7 @@
       "git add"
     ]
   },
-  "author": "Fullstack Academy of Code",
+  "author": "Andres Santos & Augusto Proano",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
