@@ -3,12 +3,15 @@ import React from 'react'
 import {Navbar, Scene} from './components'
 import Routes from './routes'
 
+import Scene2 from './components/scene2.js'
+
 const App = () => {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar />
       <Scene/>
-      <Routes />
+      <Routes /> */}
+      <Scene2 />
     </div>
   )
 }
